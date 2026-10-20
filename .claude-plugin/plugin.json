@@ -1,0 +1,12 @@
+{
+  "name": "jungle-run",
+  "version": "0.1.0",
+  "description": "A flip-screen jungle run above the prompt, drawn in octant blocks. Each tool call lays the next screen's hazard, finished tasks are treasure, and the explorer crosses it all on autopilot.",
+  "author": {
+    "name": "plaxagoras",
+    "url": "https://github.com/plaxagoras"
+  },
+  "repository": "https://github.com/plaxagoras/jungle-run",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

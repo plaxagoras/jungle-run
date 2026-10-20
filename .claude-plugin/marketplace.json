@@ -1,0 +1,17 @@
+{
+  "name": "jungle-run",
+  "owner": { "name": "plaxagoras" },
+  "metadata": {
+    "description": "jungle-run: a flip-screen jungle run above the Claude Code prompt, drawn in octant blocks",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "jungle-run",
+      "source": "./",
+      "description": "Each tool call lays the next screen's hazard: logs, tar pits, vines, crocodiles, fire. Finished tasks are treasure and the explorer crosses it all on autopilot. No model calls.",
+      "category": "fun",
+      "tags": ["mod", "pixel-art", "terminal", "retro", "game"]
+    }
+  ]
+}
